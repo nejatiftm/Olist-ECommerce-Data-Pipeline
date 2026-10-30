@@ -6,7 +6,7 @@
 Brazilian E-Commerce Public Dataset by Olist از Kaggle – [لینک]
 
 ## ابزارها
-SQL Server، T-SQL،
+SQL Server، T-SQL
 
 ## ساختار پروژه
 Olist-ECommerce-Data-Pipeline/
@@ -17,6 +17,7 @@ Olist-ECommerce-Data-Pipeline/
 ## مدل داده
 - Dimensions: `dim_customers`، `dim_sellers`، `dim_products`
 - Facts: `fact_orders`، `fact_order_items`، `fact_order_payments`، `fact_order_reviews`
+- populate tables
 
 ## کوئری‌های تحلیلی (`ecommerce_business_insights.sql`)
 ۱. روند درآمد ماهانه
