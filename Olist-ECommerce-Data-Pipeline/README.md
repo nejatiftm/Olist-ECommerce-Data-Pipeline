@@ -6,7 +6,7 @@
 Brazilian E-Commerce Public Dataset by Olist از Kaggle – [لینک]
 
 ## ابزارها
-SQL Server، T-SQL، [SSMS یا هر ابزار دیگری که استفاده کردی]
+SQL Server، T-SQL،
 
 ## ساختار پروژه
 Olist-ECommerce-Data-Pipeline/
