@@ -3,7 +3,7 @@
 پروژه‌ی مدل‌سازی و تحلیل داده‌های فروشگاه Olist با SQL Server.
 
 ## دیتاست
-Brazilian E-Commerce Public Dataset by Olist از Kaggle – [لینک]
+Brazilian E-Commerce Public Dataset by Olist از Kaggle 
 
 ## ابزارها
 SQL Server، T-SQL
@@ -26,8 +26,3 @@ Olist-ECommerce-Data-Pipeline/
 ۴. روش‌های پرداخت
 ۵. میانگین امتیاز محصولات به تفکیک دسته‌بندی
 
-## نحوه‌ی اجرا
-۱. دیتاست را دانلود کن.
-۲. فایل‌های `1_Staging` را اجرا کن. [روش ایمپورت]
-۳. فایل‌های `2_Core_Modeling` را به ترتیب `01` و `02` اجرا کن.
-۴. کوئری‌های `3_Analytics_Queries` را اجرا کن.
